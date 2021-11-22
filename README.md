@@ -26,6 +26,11 @@ Second User: 차고
 ...
 ```
 
+In korean, There is an unique rule in its language structure called 두음법칙 (I specified it as TwoSoundRule in my code)
+You can find out that explan about what is that rule. [Click Here](http://askakorean.blogspot.com/2013/02/grammar-rule-beginning-sound-rule.html)
+
+anyways, I applied this rule to this game. any of character which can be transformed will be displayed as "Two Sound Rule Is Available"
+
 # Road Map
 - [ ] Add Custom Game
 - [ ] Multi-language Support
