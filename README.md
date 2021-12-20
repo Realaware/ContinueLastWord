@@ -11,6 +11,10 @@ Before start the bot, You should set bot token as yours.
 then, Go <a href="https://krdict.korean.go.kr/openApi/openApiInfo">Korean Dictionary Api</a> and sign up.
 and get your own api keys.
 
+## Kkutu dictionary word validation
+you can change your validation method to Kkutu api which allows you to use words used in general but not listed in above api.
+
+
 # Playing
 You can make queue using 'create-room' command. (with prefix)
 
